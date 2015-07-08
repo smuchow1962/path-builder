@@ -5,8 +5,9 @@
   "main": "path-builder.js",
   "repository": {
     "type": "git",
-    "url": "https://"
+    "url": "https://github.com/smuchow1962/path-builder.git"
   },
+
   "keywords": [
     "node",
     "javascript",
