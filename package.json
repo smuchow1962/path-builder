@@ -1,6 +1,6 @@
 {
   "name": "path-builder",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Take an indented tree decription and generate paths for each item.",
   "main": "path-builder.js",
   "repository": {
