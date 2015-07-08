@@ -44,7 +44,7 @@ A Jasmine spec file is available under the `./spec` directory
 ### Usage:
 Path-Builder has no dependencides. Install it using npm  
 
->npm install path-builder [--save|--dev-save]
+`npm install path-builder [--save|--dev-save]`
 
 add to code:
 
@@ -56,8 +56,9 @@ console.dir(pathArray);
 ```
 
 
-### API  
->var pathArray = pathBuilder(stringToParse [,options]);  
+### API    
+
+`var pathArray = pathBuilder(stringToParse [,options]);`  
 
 #### Parameters:  
 _**stringToParse:**_  A newline separated string describing a directory tree using indents. Indenting may be all spaces
