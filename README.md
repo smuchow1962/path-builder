@@ -38,7 +38,8 @@ The default generator produces POSIX pathnames but options are available to defi
     ...
     ...
 
-The algorithm does not use recursion.
+The algorithm does not use recursion.  
+A Jasmine spec file is available under the `./spec` directory
 
 ### Usage:
 Path-Builder has no dependencides. Install it using npm  
