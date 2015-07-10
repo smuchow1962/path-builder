@@ -42,7 +42,7 @@ The algorithm does not use recursion.
 A Jasmine spec file is available under the `./spec` directory
 
 ### Usage:
-Path-Builder has no dependencides. Install it using npm  
+Path-Builder has no dependencies. Install it using npm  
 
 `npm install path-builder [--save|--dev-save]`
 
